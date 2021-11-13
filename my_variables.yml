@@ -1,0 +1,7 @@
+TWITTER_ACCESS_TOKEN: my_twitter_access_token
+TWITTER_ACCESS_SECRET: my_twitter_access_secret
+TWITTER_CONSUMER_KEY: my_twitter_consumer_key
+TWITTER_CONSUMER_SECRET: my_twitter_consumer_secret
+TWITTER_HANDLE: my_twitter_handle
+NOTION_INTEGRATION_KEY: my_notion_integration_key
+NOTION_DATABASE_ID: my_notion_database_id
